@@ -25,7 +25,7 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/my_app/css/my_app.css"
+app_include_css = "/assets/my_app/css/dadata-autocomplete.css"
 # app_include_js = "/assets/my_app/js/my_app.js"
 
 # include js, css files in header of web template
