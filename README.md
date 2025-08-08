@@ -4,6 +4,8 @@
 
 ### Installation
 
+## Необходимо указать переменную окружения DADATA_API_KEY с вашим ключом для API Dadata
+
 You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
 ```bash
